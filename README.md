@@ -163,13 +163,13 @@ Ink supports the following Markdown features:
 - Italic text, by surrounding a piece of text with either an asterisk (`*`), or an underscore (`_`). For example `*Italic text*`.
 - Bold text, by surrounding a piece of text with either two asterisks (`**`), or two underscores (`__`). For example `**Bold text**`.
 - Text strikethrough, by surrounding a piece of text with two tildes (`~~`), for example `~~Strikethrough text~~`.
-- Inline code, marked with a backtick on either site of the code.
+- Inline code, marked with a backtick on either side of the code.
 - Code blocks, marked with three or more backticks both above and below the block.
 - Links, using the following syntax: `[Title](url)`.
 - Images, using the following syntax: `![Alt text](image-url)`.
 - Both images and links can also use reference URLs, which can be defined anywhere in a Markdown document using this syntax: `[referenceName]: url`.
 - Both ordered lists (using numbers followed by a period (`.`) or right parenthesis (`)`) as bullets) and unordered lists (using either a dash (`-`), plus (`+`), or asterisk (`*`) as bullets) are supported.
-- Ordered lists start from the index of the first entry
+- Ordered lists start from the index of the first entry.
 - Nested lists are supported as well, by indenting any part of a list that should be nested within its parent.
 - Horizontal lines can be placed using either three asterisks (`***`) or three dashes (`---`) on a new line.
 - HTML can be inlined both at the root level, and within text paragraphs.
